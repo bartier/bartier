@@ -1,6 +1,6 @@
-Hi, I'm Vitor Anjos, a open source enthusiast and DevOps Analyst at Sensedia.
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=bartier.readmeprofile)
+
+Hi, I'm Vitor Anjos, a open source enthusiast and DevOps Analyst at Sensedia.
 
 Open Source Contributions 2020
 - [Docker](https://github.com/search?q=org%3Adocker+is%3Apr+is%3Amerged+author%3Abartier)
