@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=bartier.readmeprofile)
+![visitors](https://komarev.com/ghpvc/?username=bartier)
 
 Hi, I'm Vitor Anjos, a open source enthusiast and DevOps Analyst at Sensedia.
 
