@@ -1,6 +1,6 @@
 ![visitors](https://komarev.com/ghpvc/?username=bartier)
 
-Hi, I'm Vitor Anjos, a open source enthusiast and DevOps Analyst at Sensedia.
+Hi, I'm Vitor Anjos, a open source enthusiast
 
 Open Source Contributions 2020
 - [Docker](https://github.com/search?q=org%3Adocker+is%3Apr+is%3Amerged+author%3Abartier)
